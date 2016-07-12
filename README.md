@@ -12,7 +12,7 @@ Unlike [Zappa](https://github.com/Miserlou/Zappa), Chalice doesn't use WSGI to s
 
 Create virtual env
 		
-	mkvirtualenv
+	mkvirtualenv my-chalice
 
 Install Chalice
 
